@@ -1,4 +1,7 @@
 # GloBiRe-go
+
+[![Join the chat at https://gitter.im/appiness-community/globire-go](https://badges.gitter.im/appiness-community/globire-go.svg)](https://gitter.im/appiness-community/globire-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Global Business Registers library for the Go programming language
 
 Copyright (c) 2020, [MB "Appiness Solutions"](https://appiness.solutions)
